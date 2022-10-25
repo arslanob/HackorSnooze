@@ -1,12 +1,13 @@
 
-A front-end app uses Ajax to interact with an API
 
-
-#Hack-or-Snooze  (Copy Of HackerNews)
 <!-- GETTING STARTED -->
 
 
 ## Summary
+
+A front-end app uses Ajax to interact with an API
+
+#Hack-or-Snooze  (Copy Of HackerNews)
 
 Copy of the famous social news website focusing on computer science and entrepreneurship. With my clone you can:
 
