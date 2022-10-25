@@ -34,4 +34,4 @@ Click the [here](https://arslanob.github.io/Hackorsnooze/) to play!
 ## APIs Used
 - [jService API](https://jservice.io/)
 
-![App Screenshot](https://github.com/arslanob/Jeopardy/blob/main/Jeopardy%20App%20Screenshot.png)
+![App Screenshot](https://github.com/arslanob/HackorSnooze/blob/master/HackorSnooze%20Screen.png)
