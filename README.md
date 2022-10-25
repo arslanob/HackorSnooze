@@ -24,7 +24,6 @@ Click the [here](https://arslanob.github.io/HackorSnooze/) to play!
 
 
 ## Built With
-
 - [![HTML5][html.com]][html-url]
 - [![JS][javascript.com]][javascript-url]
 - [![Axios][axios.com]][axios-url]
