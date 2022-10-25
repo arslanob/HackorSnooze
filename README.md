@@ -19,7 +19,7 @@ Delete or edit your posts
 - First click on the question mark icon will reveal the clue.
 - Second click will show you the answer!
 
-Click the [here](https://arslanob.github.io/Hackorsnooze/) to play! 
+Click the [here](https://arslanob.github.io/HackorSnooze/) to play! 
 
 
 ## Built With
