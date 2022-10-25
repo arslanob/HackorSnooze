@@ -29,7 +29,6 @@ Click the [here](https://arslanob.github.io/HackorSnooze/) to play!
 - [![Axios][axios.com]][axios-url]
 - [![Bootstrap][bootstrap.com]][bootstrap-url]
 - [![JQuery][jquery.com]][jquery-url]
--
 
 
 ## APIs Used
