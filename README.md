@@ -1,7 +1,6 @@
-HackorSnooze
+# HackorSnooze!
 
 <!-- GETTING STARTED -->
-
 
 ## Summary
 
