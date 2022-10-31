@@ -15,10 +15,6 @@ Post stories with links
 Check out posts from other users. You can add posts to your favorites
 Delete or edit your posts
 
-## How to Play
-- First click on the question mark icon will reveal the clue.
-- Second click will show you the answer!
-
 Click the [here](https://arslanob.github.io/HackorSnooze/) to play! 
 
 ## Built With
