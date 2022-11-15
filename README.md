@@ -15,7 +15,7 @@ Post stories with links
 Check out posts from other users. You can add posts to your favorites
 Delete or edit your posts
 
-Click the [here](https://arslanob.github.io/HackorSnooze/) to play! 
+Click the [here](https://arslanob.github.io/HackorSnooze/) to visit the website! 
 
 ## Built With
 
